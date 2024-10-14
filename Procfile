@@ -1,1 +1,1 @@
-web: backende-portfolio-31f2d3283b71.wsgi
+web: gunicorn <new-backend-portfolio-d490c06a7d64>.wsgi
