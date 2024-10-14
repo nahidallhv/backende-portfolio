@@ -28,7 +28,7 @@ SECRET_KEY = config('DJANGO_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['backende-portfolio-31f2d3283b71.herokuapp.com']
+ALLOWED_HOSTS = ['new-backend-portfolio-d490c06a7d64.herokuapp.com']
 
 
 # Application definition
