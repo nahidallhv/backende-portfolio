@@ -21,5 +21,5 @@ from contact.views import home
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('contact.urls')),
-    path('', home),  # Ana sayfada basit bir içerik göster
+    path('', home),  
 ]
